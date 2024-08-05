@@ -38,7 +38,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Arístides José Molina Pérez**
+👤 **Sam arabia**
 
 - GitHub: [@Samarabia20](https://github.com/Samarabia20)
 ## 🤝 Contributing
